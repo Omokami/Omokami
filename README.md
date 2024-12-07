@@ -1,8 +1,8 @@
 # 💫 Hi Everyone
 
 # 💻 My Skills:
-<div style="display: flex; align-items: flex-start; align: center;">
-<table align="center" style="">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
     <tr>
         <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
@@ -17,9 +17,9 @@
             <br>Go
         </td> 
         <td align="center" width="150">
-            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
+            <img src="./assets/c.png" width="48" height="48" alt="c" />
             <br>C++
-        </td>   
+        </td> 
         <td align="center" width="150">
             <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
             <br>Ethereum
@@ -31,8 +31,7 @@
         <td align="center" width="150">
             <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
             <br>Polygon
-        </td>
-
+        </td>               
     </tr>
     <tr>
         <td align="center" width="150">
@@ -87,5 +86,6 @@
         </td>
     </tr>
 </table>
-
+<br><br>
 </div>
+
