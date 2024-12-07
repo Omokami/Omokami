@@ -1,33 +1,38 @@
 # 💫 Hi Everyone
 
 # 💻 My Skills:
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div style="display: flex; align-items: flex-start; align: center;width:4000">
+<table align="center" style="">
     <tr>
-        <td align="center" width="120">
+        <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
             <br>Solidity
         </td>
-        <td align="center" width="120">
+        <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
             <br>Rust
         </td>
-        <td align="center" width="120">
+        <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
             <br>Go
         </td> 
-        <td align="center" width="120">
+        <td align="center" width="150">
+            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
+            <br>C++
+        </td>   
+        <td align="center" width="150">
             <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
             <br>Ethereum
         </td>    
-        <td align="center" width="120">
+        <td align="center" width="150">
             <img src="./assets/solana.png" width="48" height="48" alt="ethereum" />
             <br>Solana
         </td>
-        <td align="center" width="120">
+        <td align="center" width="150">
             <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
             <br>Polygon
-        </td>               
+        </td>
+
     </tr>
     <tr>
         <td align="center" width="120">
