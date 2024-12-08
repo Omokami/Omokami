@@ -1,3 +1,4 @@
+
 # 💫 Hi Everyone
 
 # 💻 My Skills:
@@ -17,9 +18,9 @@
             <br>Go
         </td> 
         <td align="center" width="150">
-            <img src="./assets/c.png" width="48" height="48" alt="c" />
-            <br>C++
-        </td> 
+            <img src="https://cryptologos.cc/logos/cosmos-atom-logo.png?v=035" width="48" height="48" alt="Cosmos" />
+            <br>Cosmos
+        </td>
         <td align="center" width="150">
             <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
             <br>Ethereum
@@ -57,12 +58,20 @@
         <td align="center" width="150">
             <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
             <br>Stellar
+        </td>
+        <td align="center" width="150">
+            <img src="https://github.com/user-attachments/assets/3ac4fb1b-f991-4e5f-8a2e-ab26a3e3f315" width="48" height="48" alt="Hardhat" />
+            <br>Hardhat
         </td>        
     </tr>
     <tr>
         <td align="center" width="150">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
             <br>React
+        </td> 
+        <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <br>Node.js
         </td> 
          <td align="center" width="150">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
@@ -77,8 +86,8 @@
             <br>Python
         </td>
         <td align="center" width="150">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-            <br>Node.js
+            <img src="./assets/c.png" width="48" height="48" alt="c" />
+            <br>C++
         </td> 
         <td align="center" width="150">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
