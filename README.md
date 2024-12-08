@@ -26,11 +26,11 @@
             <br>Ethereum
         </td>    
         <td align="center" width="150">
-            <img src="./assets/solana.png" width="48" height="48" alt="ethereum" />
+            <img src="./assets/solana.png" width="48" height="48" alt="solana" />
             <br>Solana
         </td>
         <td align="center" width="150">
-            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
+            <img src="./assets/polygon.png" width="48" height="48" alt="Polygon" />
             <br>Polygon
         </td>               
     </tr>
@@ -44,11 +44,11 @@
             <br>Polkadot
         </td>
         <td align="center" width="150">
-            <img src="./assets/cryptocurrency.png" width="48" height="48" alt="Aptos" />
+            <img src="./assets/aptos.png" width="48" height="48" alt="Aptos" />
             <br>Aptos
         </td>  
         <td align="center" width="150">
-            <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
+            <img src="./assets/near.png" width="48" height="48" alt="near" />
             <br>Near
         </td> 
         <td align="center" width="150">
@@ -86,7 +86,7 @@
             <br>Python
         </td>
         <td align="center" width="150">
-            <img src="./assets/c.png" width="48" height="48" alt="c" />
+            <img src="./assets/c.jpg" width="48" height="48" alt="c" />
             <br>C++
         </td> 
         <td align="center" width="150">
