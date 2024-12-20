@@ -29,7 +29,7 @@
             <br>Ethereum
         </td>    
         <td align="center" width="150">
-            <img src="./assets/Solana.png" width="48" height="48" alt="solana" />
+            <img src="./assets/solana.png" width="48" height="48" alt="solana" />
             <br>Solana
         </td>
         <td align="center" width="150">
