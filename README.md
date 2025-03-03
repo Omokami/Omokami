@@ -88,13 +88,13 @@
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
             <br>Python
         </td>
-        <td align="center" width="150">
-            <img src="./assets/c.jpg" width="48" height="48" alt="c" />
-            <br>C++
-        </td> 
-        <td align="center" width="150">
+         <td align="center" width="150">
             <img src="./assets/hedera.png" alt="icon" width="48" height="48" />
             <br>Hedera 
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/xrp.png" width="48" height="48" alt="xrp" />
+            <br>XRP
         </td>
     </tr>
 </table>
