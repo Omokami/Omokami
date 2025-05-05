@@ -97,6 +97,36 @@
             <br>XRP
         </td>
     </tr>
+    <tr>
+        <td align="center" width="150">
+            <img src="./assets/ai.png" alt="icon" width="48" height="48" />
+            <br>AI
+        </td> 
+        <td align="center" width="150">
+            <img src="h./assets/gpt.jpg" width="48" height="48" alt="Node.js" />
+            <br>GPT
+        </td> 
+         <td align="center" width="150">
+            <img src="./assets/n8n.png" width="48" height="48" alt="Next.js" />
+            <br>N8N
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/Mistral.png" width="48" height="48" alt="Vue" />
+            <br>Mistral
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/Zapier.png" alt="icon" width="48" height="48" />
+            <br>Zapier
+        </td>
+         <td align="center" width="150">
+            <img src="./assets/Gemini.png" alt="icon" width="48" height="48" />
+            <br>Gemini 
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/Flash.png" width="48" height="48" alt="xrp" />
+            <br>Flash
+        </td>
+    </tr>
 </table>
 <br><br>
 </div>
