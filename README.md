@@ -99,31 +99,31 @@
     </tr>
     <tr>
         <td align="center" width="150">
-            <img src="./assets/ai.png" alt="icon" width="48" height="48" />
+            <img src="./assets/ai.png"  width="48" height="48" />
             <br>AI
         </td> 
         <td align="center" width="150">
-            <img src="h./assets/gpt.jpg" width="48" height="48" alt="Node.js" />
+            <img src="./assets/gpt.jpg" width="48" height="48"  />
             <br>GPT
         </td> 
          <td align="center" width="150">
-            <img src="./assets/n8n.png" width="48" height="48" alt="Next.js" />
+            <img src="./assets/n8n.png" width="48" height="48" />
             <br>N8N
         </td>
         <td align="center" width="150">
-            <img src="./assets/Mistral.png" width="48" height="48" alt="Vue" />
+            <img src="./assets/Mistral.png" width="48" height="48" />
             <br>Mistral
         </td>
         <td align="center" width="150">
-            <img src="./assets/Zapier.png" alt="icon" width="48" height="48" />
+            <img src="./assets/Zapier.png"  width="48" height="48" />
             <br>Zapier
         </td>
          <td align="center" width="150">
-            <img src="./assets/Gemini.png" alt="icon" width="48" height="48" />
+            <img src="./assets/Gemini.png"  width="48" height="48" />
             <br>Gemini 
         </td>
         <td align="center" width="150">
-            <img src="./assets/Flash.png" width="48" height="48" alt="xrp" />
+            <img src="./assets/Flash.png" width="48" height="48" />
             <br>Flash
         </td>
     </tr>
