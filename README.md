@@ -33,8 +33,8 @@
             <br>Solana
         </td>
         <td align="center" width="150">
-            <img src="./assets/polygon.png" width="48" height="48" alt="Polygon" />
-            <br>Polygon
+            <img src="./assets/icp.jpg" width="48" height="48" alt="icp" />
+            <br>ICP
         </td>               
     </tr>
     <tr>
