@@ -21,7 +21,7 @@
             <br>Go
         </td> 
         <td align="center" width="150">
-            <img src="https://cryptologos.cc/logos/cosmos-atom-logo.png?v=035" width="48" height="48" alt="Cosmos" />
+            <img src="./assets/cosmos.png" width="48" height="48" alt="Cosmos" />
             <br>Cosmos
         </td>
         <td align="center" width="150">
