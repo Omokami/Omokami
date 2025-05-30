@@ -33,7 +33,7 @@
             <br>Solana
         </td>
         <td align="center" width="150">
-            <img src="./assets/icp.jpg" width="48" height="48" alt="icp" />
+            <img src="./assets/icp.png" width="48" height="48" alt="icp" />
             <br>ICP
         </td>               
     </tr>
