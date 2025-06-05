@@ -123,8 +123,8 @@
             <br>Gemini 
         </td>
         <td align="center" width="150">
-            <img src="./assets/Flash.png" width="48" height="48" />
-            <br>Flash
+            <img src="./assets/java.png" width="48" height="48" />
+            <br>Java
         </td>
     </tr>
 </table>
