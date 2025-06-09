@@ -119,8 +119,8 @@
             <br>Zapier
         </td>
          <td align="center" width="150">
-            <img src="./assets/Gemini.png"  width="48" height="48" />
-            <br>Gemini 
+            <img src="./assets/langchain.png"  width="48" height="48" />
+            <br>Langchain 
         </td>
         <td align="center" width="150">
             <img src="./assets/java.png" width="48" height="48" />
