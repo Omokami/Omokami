@@ -51,8 +51,8 @@
             <br>Aptos
         </td>  
         <td align="center" width="150">
-            <img src="./assets/near.png" width="48" height="48" alt="near" />
-            <br>Near
+            <img src="./assets/cardano.png" width="48" height="48" alt="near" />
+            <br>Cardano
         </td> 
         <td align="center" width="150">
             <img src="./assets/sui.png" width="48" height="48" alt="sui" />
